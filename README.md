@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alex-udeogu-7a5622242/recent-activity/all/](https://www.linkedin.com/in/alex-udeogu-7a5622242/recent-activity/all/)
 
-- 💬 Ask me about **Frontend Deveploment Photography**
+- 💬 Ask me about **Frontend Deveploment, Photography**
 
 - 📫 How to reach me **alexanderudeogu@gmail.com**
 
