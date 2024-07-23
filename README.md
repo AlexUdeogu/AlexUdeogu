@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Helloooooo 👋, I'm Alex</h1>
+<h3 align="center">A Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexudeogu&label=Profile%20views&color=0e75b6&style=flat" alt="alexudeogu" /> </p>
 
-- 🌱 I’m currently learning **React, Mongo DB, Node.js and other affiliated technologies**
+- 🌱 I’m currently learning <h1> **Nextjs, Mongo DB, Node.js** </h1>>
 
 - 👨‍💻 All of my projects are available at [https://alexudeogu.github.io/](https://alexudeogu.github.io/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alex-udeogu-7a5622242/recent-activity/all/](https://www.linkedin.com/in/alex-udeogu-7a5622242/recent-activity/all/)
 
-- 💬 Ask me about **Frontend Deveploment, Photography**
-
 - 📫 How to reach me **alexanderudeogu@gmail.com**
-
-- 📄 Know about my experiences [https://alexudeogu.github.io/](https://alexudeogu.github.io/)
 
 - ⚡ Fun fact **I have very good taste for music**
 
