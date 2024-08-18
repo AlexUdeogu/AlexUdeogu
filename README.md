@@ -1,4 +1,4 @@
-<h1 align="center">Helloooooo 👋, I'm Alex</h1>
+<h1 align="center">Helloooooo 👋, I'm **Alex**</h1>
 <h3 align="center">I'm a Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexudeogu&label=Profile%20views&color=0e75b6&style=flat" alt="alexudeogu" /> </p>
